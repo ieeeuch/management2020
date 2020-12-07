@@ -1,5 +1,5 @@
 # [![IEEE](https://ieeeuch.github.io/join/img/logo.png)](https://ieeeuch.github.io/join/img/logo.png) Gestión IEEE UCH 2020
-Calendario de Actividades
+📝Calendario de Actividades
 versión On-Demand
 
 * Diciembre
@@ -73,17 +73,17 @@ versión On-Demand
 * Enero
     * Procesos: Inicio de escritura de código
 
-## 👀 Más información sobre el Presidente IEEE UCH 2020
+## 🚀 Redes IEEE sb UCH 2020
 
 <p align='center'>
+  <a href="https://www.instagram.com/ieeeuch">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
    <a href="https://twitter.com/ieeeuch">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/ieeeuch">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ieeeuch">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
       <a href="https://www.facebook.com/ieeeuch">
      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&countColor=%232ea44f" />
@@ -92,6 +92,7 @@ versión On-Demand
      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&countColor=%232ea44f" />
   </a>&nbsp;&nbsp;
 </p>
-## Información sobre el Presidente IEEE UCH 2020
+
+## 👨 Información sobre el Presidente IEEE UCH 2020
 - Email: juancarlosllp@ieee.org
 - Instagram: [@dragon0693](https://www.instagram.com/dragon0693/)
