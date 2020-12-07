@@ -6,22 +6,22 @@ versión On-Demand
     * Aprende: [Semana de Conocimiento](https://ieeeuch.github.io/aprende/)
     * PLI: [Conversatorio "Realidades de la Investigación en América Latina"](https://www.youtube.com/watch?v=OyXO4TGG7WA)
 * Noviembre
-    * PLI: Oralidad "La Investigación toma la palabra"
-    * PLI: Profundizando en la revisión de literatura
-    * PLI: Derechos de Autor
-    * PLI: Bibliográfias y Citaciones
-    * PLI: Conclusiones y Trabajos Futuros
-    * PLI: Discusión de Resultados
+    * PLI: [Oralidad "La Investigación toma la palabra"](https://www.youtube.com/watch?v=gqt1OaBH230)
+    * PLI: [Profundizando en la revisión de literatura](https://www.youtube.com/watch?v=UAwONKYn8Gw&t=26s)
+    * PLI: [Derechos de Autor](https://www.youtube.com/watch?v=6vGsIn0VA60)
+    * PLI: [Bibliográfias y Citaciones](https://www.youtube.com/watch?v=zbBoL9Z3XPY)
+    * PLI: [Conclusiones y Trabajos Futuros](https://www.youtube.com/watch?v=lWWz7uP_kq8)
+    * PLI: [Discusión de Resultados](https://www.youtube.com/watch?v=tWz1WWhArLo)
 * Octubre
-    * PLI: Estado del arte y Marco teórico
-    * PLI: Metodologías de Investigación y Desarrollo
-    * PLI: Evaluación multicriterio
-    * PLI: Revisión y evaluación de documentos
-    * PLI: SCIMAGO
-    * PLI: Presentación y Resultados de Investigación
-    * PLI: Búsqueda de revistas en SCIMAGO
-    * PLI: Bases de Datos Bibliográficas
-    * PLI: Introducción a Investigación
+    * PLI: [Estado del arte y Marco teórico](https://www.youtube.com/watch?v=cMLveoVaW74&t=101s)
+    * PLI: [Metodologías de Investigación y Desarrollo](https://www.youtube.com/watch?v=_wK7U_kMou0&t=131s)
+    * PLI: [Evaluación multicriterio](https://www.youtube.com/watch?v=C_vIGf22XbM&t=68s)
+    * PLI: [Revisión y evaluación de documentos](https://www.youtube.com/watch?v=zocCIxBEuyc&t=15s)
+    * PLI: [SCIMAGO](https://www.youtube.com/watch?v=u57feHC5W6E&t=13s)
+    * PLI: [Presentación y Resultados de Investigación](https://www.youtube.com/watch?v=tkQn6l4hhME&t=32s)
+    * PLI: [Búsqueda de revistas en SCIMAGO](https://www.youtube.com/watch?v=qeuX5fgjbCo)
+    * PLI: [Bases de Datos Bibliográficas](https://www.youtube.com/watch?v=iIjyYroKuVY&t=16s)
+    * PLI: [Introducción a Investigación](https://www.youtube.com/watch?v=3Hjxj0rj0d4)
 * Septiembre
     * ReuniónAbierta: Mes de Septiembre
 * Agosto
@@ -35,7 +35,7 @@ versión On-Demand
 * Abril
     * ReuniónAbierta: Mes de Abril
 * Marzo
-    * COVID19SUSummit: Pensamientos finales sobre el Impacto empresarial, liderazgo y estrategias para hoy
+    * COVID19SUSummit: [Pensamientos finales sobre el Impacto empresarial, liderazgo y estrategias para hoy](https://www.youtube.com/watch?v=5Q_dbLp40nw)
     * COVID19SUSummit: Complejidad: cómo los líderes pueden navegar situaciones impredecibles
     * COVID19SUSummit: Cómo puede actuar en tiempos de incertidumbre
     * COVID19SUSummit: Las noticias falsas y el papel de los medios en las emergencias globales
