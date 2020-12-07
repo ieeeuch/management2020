@@ -82,14 +82,26 @@ versión On-Demand
    <a href="https://twitter.com/ieeeuch">
      <img src="https://img.shields.io/badge/@ieeeuch%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&countColor=%232ea44f" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/ieeeuch">
-     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://discord.com/invite/C9BPnNA">
+     <img src="https://img.shields.io/badge/%3Cieeeuch%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
-      <a href="https://www.facebook.com/ieeeuch">
+  <a href="https://www.youtube.com/channel/UCti9mzsevwGBIC5KprOe1YQ">
+     <img src="https://img.shields.io/badge/@ieeeuch%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+       <a href="https://www.facebook.com/ieeeuch">
      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&countColor=%232ea44f" />
   </a>&nbsp;&nbsp;
-      <a href="https://www.youtube.com/channel/UCti9mzsevwGBIC5KprOe1YQ">
-     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&countColor=%232ea44f" />
+  <a href="https://www.linkedin.com/company/ieeeuch">
+     <img src="https://img.shields.io/badge/@ieeeuch%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+      <a href="https://www.tiktok.com/@ieeeuch?lang=es">
+     <img src="https://img.shields.io/badge/@ieeeuch%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/ieeeuch">
+     <img src="https://img.shields.io/badge/@ieeeuch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://github.com/ieeeuch">
+     <img src="https://img.shields.io/badge/@ieeeuch%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
