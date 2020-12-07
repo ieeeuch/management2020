@@ -77,7 +77,7 @@ versión On-Demand
 
 <p align='center'>
   <a href="https://www.instagram.com/ieeeuch">
-    <img src="https://img.shields.io/badge/<@ieeeuch>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/@ieeeuch%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
    <a href="https://twitter.com/ieeeuch">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
