@@ -3,8 +3,8 @@
 versión On-Demand
 
 * Diciembre
-    * Aprende: Semana de Conocimiento
-    * PLI: Conversatorio "Realidades de la Investigación en América Latina"
+    * Aprende: [Semana de Conocimiento](https://ieeeuch.github.io/aprende/)
+    * PLI: [Conversatorio "Realidades de la Investigación en América Latina"](https://www.youtube.com/watch?v=OyXO4TGG7WA)
 * Noviembre
     * PLI: Oralidad "La Investigación toma la palabra"
     * PLI: Profundizando en la revisión de literatura
