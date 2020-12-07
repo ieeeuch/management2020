@@ -80,7 +80,7 @@ versión On-Demand
     <img src="https://img.shields.io/badge/@ieeeuch%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
    <a href="https://twitter.com/ieeeuch">
-     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
+     <img src="https://img.shields.io/badge/@ieeeuch%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&countColor=%232ea44f" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/ieeeuch">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
